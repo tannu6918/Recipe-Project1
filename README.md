@@ -28,10 +28,11 @@ A simple and stylish web app that allows users to search for recipes and view th
 
 
  ## Open in your browser:
+ 
 Just open index.html in your browser. No server setup or dependencies needed.
 
  ## 📌 Technologies Used
-HTML5
-CSS3
-JavaScript (ES6)
+-HTML5
+-CSS3
+-JavaScript (ES6)
 
